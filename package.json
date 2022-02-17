@@ -1,0 +1,23 @@
+{
+  "name": "acc-typescript-redux",
+  "version": "1.0.0",
+  "description": "practice repo for typoescript and redux.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babulakterfsd/acc-typescript-redux.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/babulakterfsd/acc-typescript-redux/issues"
+  },
+  "homepage": "https://github.com/babulakterfsd/acc-typescript-redux#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
